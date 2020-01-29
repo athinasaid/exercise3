@@ -1,6 +1,6 @@
 def road(num):
     print("="*num)
-road(3)
+road(5)
 
 def hello_world():
 	print("hello world")
